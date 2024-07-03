@@ -1,0 +1,14 @@
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\bin\Debug\net8.0\AppTwo.exe
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\bin\Debug\net8.0\AppTwo.deps.json
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\bin\Debug\net8.0\AppTwo.runtimeconfig.json
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\bin\Debug\net8.0\AppTwo.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\bin\Debug\net8.0\AppTwo.pdb
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.AssemblyInfoInputs.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.AssemblyInfo.cs
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.csproj.CoreCompileInputs.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\refint\AppTwo.dll
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.pdb
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\AppTwo.genruntimeconfig.cache
+C:\Users\mrbor\OneDrive\Рабочий стол\TestWork\AppTwo\AppTwo\obj\Debug\net8.0\ref\AppTwo.dll
